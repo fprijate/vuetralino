@@ -3,7 +3,7 @@
 Neutralino + Vite + VueJS
 
 ```
-neu create myapp --template slluxx/vuetralino
+neu create myapp --template fprijate/vuetralino
 ```
 
 Note: 

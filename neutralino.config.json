@@ -73,7 +73,7 @@
     }
   },
   "cli": {
-    "binaryName": "myapp",
+    "binaryName": "myTestapp",
     "resourcesPath": "/frontend/",
     "extensionsPath": "/extensions/",
     "binaryVersion": "5.0.0",
